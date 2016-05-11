@@ -1,0 +1,10 @@
+17-Apr-2016 17:41:23.438 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project]
+17-Apr-2016 17:41:23.464 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/storeWebPage
+17-Apr-2016 17:41:23.509 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/storeWebPage has finished in 45 ms
+17-Apr-2016 23:20:29.209 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-2048"]
+17-Apr-2016 23:20:33.262 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+17-Apr-2016 23:20:33.315 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+17-Apr-2016 23:20:33.380 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-2048"]
+17-Apr-2016 23:20:33.397 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+17-Apr-2016 23:20:33.399 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-2048"]
+17-Apr-2016 23:20:33.400 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

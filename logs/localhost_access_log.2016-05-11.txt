@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:34 -0700] "GET /storeWebPage/JSPs/MainPage.jsp HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/ HTTP/1.1" 200 7927
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/css/bootstrap.min.css HTTP/1.1" 200 122540
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/css/custom.css HTTP/1.1" 200 8335
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/js/custom.js HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/js/jquery-1.11.3.min.js HTTP/1.1" 200 95957
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/js/jquery.easing.min.js HTTP/1.1" 200 5564
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/js/bootstrap.min.js HTTP/1.1" 200 36816
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/images/header.jpg HTTP/1.1" 200 605300
+0:0:0:0:0:0:0:1 - - [11/May/2016:15:19:43 -0700] "GET /storeWebPage/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028

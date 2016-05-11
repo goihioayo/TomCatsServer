@@ -1,0 +1,98 @@
+18-Apr-2016 13:12:40.242 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.33
+18-Apr-2016 13:12:40.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 18 2016 20:31:49 UTC
+18-Apr-2016 13:12:40.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.33.0
+18-Apr-2016 13:12:40.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+18-Apr-2016 13:12:40.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.11.3
+18-Apr-2016 13:12:40.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+18-Apr-2016 13:12:40.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre
+18-Apr-2016 13:12:40.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+18-Apr-2016 13:12:40.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Apr-2016 13:12:40.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:12:40.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:12:40.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer/conf/logging.properties
+18-Apr-2016 13:12:40.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Apr-2016 13:12:40.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer/endorsed
+18-Apr-2016 13:12:40.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:12:40.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:12:40.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer/temp
+18-Apr-2016 13:12:40.248 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/BlackMonkey/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+18-Apr-2016 13:12:40.504 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 13:12:40.551 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2016 13:12:40.555 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 13:12:40.558 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2016 13:12:40.558 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1078 ms
+18-Apr-2016 13:12:40.594 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+18-Apr-2016 13:12:40.595 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.33
+18-Apr-2016 13:12:40.607 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/docs
+18-Apr-2016 13:12:41.197 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/docs has finished in 589 ms
+18-Apr-2016 13:12:41.197 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/examples
+18-Apr-2016 13:12:41.711 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/examples has finished in 514 ms
+18-Apr-2016 13:12:41.712 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/host-manager
+18-Apr-2016 13:12:41.761 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/host-manager has finished in 50 ms
+18-Apr-2016 13:12:41.762 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/manager
+18-Apr-2016 13:12:41.804 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/manager has finished in 42 ms
+18-Apr-2016 13:12:41.804 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/ROOT
+18-Apr-2016 13:12:41.835 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/ROOT has finished in 31 ms
+18-Apr-2016 13:12:41.836 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/storeWebPage
+18-Apr-2016 13:12:41.883 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/storeWebPage has finished in 48 ms
+18-Apr-2016 13:12:41.888 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 13:12:41.896 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 13:12:41.897 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1338 ms
+18-Apr-2016 13:14:26.206 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Apr-2016 13:14:26.207 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 13:14:26.264 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 13:14:26.319 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+18-Apr-2016 13:14:26.374 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 13:14:26.375 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 13:14:26.442 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 13:14:26.443 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 13:19:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.33
+18-Apr-2016 13:19:12.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 18 2016 20:31:49 UTC
+18-Apr-2016 13:19:12.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.33.0
+18-Apr-2016 13:19:12.127 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+18-Apr-2016 13:19:12.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.11.3
+18-Apr-2016 13:19:12.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+18-Apr-2016 13:19:12.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre
+18-Apr-2016 13:19:12.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+18-Apr-2016 13:19:12.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Apr-2016 13:19:12.128 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:19:12.129 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:19:12.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer/conf/logging.properties
+18-Apr-2016 13:19:12.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Apr-2016 13:19:12.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer/endorsed
+18-Apr-2016 13:19:12.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:19:12.130 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer
+18-Apr-2016 13:19:12.131 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/BlackMonkey/Desktop/CSE135/TomCatsServer/temp
+18-Apr-2016 13:19:12.131 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/BlackMonkey/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+18-Apr-2016 13:19:12.310 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 13:19:12.339 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2016 13:19:12.344 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 13:19:12.347 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+18-Apr-2016 13:19:12.347 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 816 ms
+18-Apr-2016 13:19:12.397 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+18-Apr-2016 13:19:12.398 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.33
+18-Apr-2016 13:19:12.408 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/docs
+18-Apr-2016 13:19:12.876 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/docs has finished in 467 ms
+18-Apr-2016 13:19:12.877 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/examples
+18-Apr-2016 13:19:13.309 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/examples has finished in 432 ms
+18-Apr-2016 13:19:13.309 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/host-manager
+18-Apr-2016 13:19:13.351 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/host-manager has finished in 42 ms
+18-Apr-2016 13:19:13.351 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/manager
+18-Apr-2016 13:19:13.387 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/manager has finished in 36 ms
+18-Apr-2016 13:19:13.388 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/ROOT
+18-Apr-2016 13:19:13.416 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/ROOT has finished in 28 ms
+18-Apr-2016 13:19:13.417 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/storeWebPage
+18-Apr-2016 13:19:13.480 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/BlackMonkey/Desktop/CSE135/TomCatsServer/webapps/storeWebPage has finished in 64 ms
+18-Apr-2016 13:19:13.484 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 13:19:13.491 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 13:19:13.492 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1144 ms
+18-Apr-2016 13:30:05.322 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/storeWebPage]
+18-Apr-2016 13:30:05.326 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/storeWebPage] has started
+18-Apr-2016 13:30:05.361 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/storeWebPage] is completed
+18-Apr-2016 17:31:37.265 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 17:31:40.353 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 17:31:40.407 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+18-Apr-2016 17:31:40.456 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 17:31:40.486 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+18-Apr-2016 17:31:40.490 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-2048"]
+18-Apr-2016 17:31:40.492 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
