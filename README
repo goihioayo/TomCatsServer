@@ -1,0 +1,11 @@
+This is the UI of the website that you see in my another repository on git called "Website"
+This is just the UI of this website, which means it has not linked to any database yet. If you want to see the database of
+this website, go to the "website" folder, follow the instructions, and you will be able to see a skeleton of the website with
+no UI but with a functional database.
+
+To view this page, a tomcat server is needed, and then fllow the steps below:
+
+step 1: run startup.sh in terminal. (using command "./startup.sh")
+step 2: type in "localhost:2048/storeWebPage" to your broswer.
+
+Then you will be able to see the pages. 
